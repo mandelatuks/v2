@@ -19,10 +19,10 @@ import ruby from "./assets/techstack/ruby4.png";
 
 import projectImage1 from "./assets/projects/project1.png";
 import projectImage2 from "./assets/projects/project2.png";
-import projectImage3 from "./assets/projects/project3.jpg";
-import projectImage4 from "./assets/projects/project4.jpg";
-import projectImage5 from "./assets/projects/project5.jpg";
-import projectImage6 from "./assets/projects/project6.jpg";
+import projectImage3 from "./assets/projects/project3.png";
+import projectImage4 from "./assets/projects/project4.png";
+import projectImage5 from "./assets/projects/project5.png";
+import projectImage6 from "./assets/projects/project6.png";
 
 export const logos = {
   logo: logo
@@ -30,7 +30,7 @@ export const logos = {
 
 export const personDetails = {
   name: "Mandela",
-  tageline: "I’m a software developer",
+  tagline: "I’m a software developer",
   img: profile,
   about: "I can help you build a product , feature or website Look through some of my work and experience If you like what you see and have a project you need coded,don’t hesitate to contact me.",
 };
