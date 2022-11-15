@@ -121,6 +121,7 @@ const Contact = () => {
             duration-150
             focus:shadow-outline
             hover:bg-indigo-800
+            hover:bg-sky-700
           "
         >
           Contact Me
