@@ -17,7 +17,7 @@ const Project = ({
         Tech Stack : <span className="font-light">{techstack}</span>
       </h3>
     <div className="flex justify-between items-center mt-5">
-       <div className="flex items-center">
+       <div className="flex items-center ">
             <svg
               className="stroke-dark-heading dark:stroke-white inline-block min-w-fit"
               width="20"
